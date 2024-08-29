@@ -1,2 +1,2 @@
 # collection-java-api-2024
-Criando uma api java coleções
+Este projeto é uma replica do curso "Conhecendo a Hierarquia do Collection Framework API Java" da plataforma DIO
